@@ -1,5 +1,6 @@
-package com.ksc;
+package com.ksc.servlet;
 
+import com.ksc.Student;
 import com.ksc.service.studentAdministrationService;
 
 import javax.servlet.ServletException;
